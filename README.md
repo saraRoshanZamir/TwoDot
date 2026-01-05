@@ -1,0 +1,1 @@
+TwoDot is a social application built around event based, one-on-one conversations within circles.

@@ -1,0 +1,37 @@
+# .NET
+bin/
+obj/
+.vs/
+.idea/
+
+# Config & secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+.env
+.env.local
+
+# Logs
+*.log
+
+# Node / React Native
+node_modules/
+.expo/
+.metro-cache/
+dist/
+build/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcuserstate
+
+# Android
+android/.gradle/
+android/build/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
